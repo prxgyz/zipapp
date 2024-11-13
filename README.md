@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # ZipApp - Sistema de Atendimento Online
 
 Sistema automatizado para atendimento e vendas com:
@@ -72,5 +71,3 @@ zipapp/
 3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
 4. Push para a branch (`git push origin feature/NovaFuncionalidade`)
 5. Abra um Pull Request
-
-EOF
